@@ -17,6 +17,7 @@
     <modules>
         <module>HelloWorld</module>
         <module>JavaSPIDemo</module>
+        <module>SpringBootStarterDemo</module>
     </modules>
 
 

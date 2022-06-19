@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaSPIDemo" />
         <module name="HelloWorld" />
+        <module name="hello-springboot-starter" />
+        <module name="hello-springboot-starter-autoconfig" />
       </profile>
     </annotationProcessing>
   </component>
